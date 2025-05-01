@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Crankshaft",
+    "type": "Mechanologist Action",
+    "set": {"name": "Dynasty"},
+    "identifier": "DYN090",
+    "rarity": "Common"
+  },
+  {
+    "name": "Heist",
+    "type": "Assassin Specialization",
+    "set": {"name": "Dynasty"},
+    "identifier": "DYN099",
+    "rarity": "Majestic"
+  }
+]
